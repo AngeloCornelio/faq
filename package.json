@@ -1,0 +1,25 @@
+{
+  "name": "faq",
+  "version": "1.0.0",
+  "description": "An example FAQ page for my GitHub portfolio.",
+  "main": "index.html",
+  "scripts": {
+    "test": "open index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngeloCornelio/faq.git"
+  },
+  "keywords": [
+    "faq",
+    "frequently",
+    "asked",
+    "questions"
+  ],
+  "author": "Angelo Cornelio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngeloCornelio/faq/issues"
+  },
+  "homepage": "https://github.com/AngeloCornelio/faq#readme"
+}
